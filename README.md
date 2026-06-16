@@ -8,6 +8,8 @@ This repository contains my practical notebooks, exercises, and mini-projects fr
 - Pandas for Data Analysis
 - Data Cleaning
 - Data Visualization
+🚀 This repository will be updated continuously as I progress through the course.
+
 
 ## 🛠 Tools & Libraries
 - Python
